@@ -3,7 +3,8 @@ export default function ListPicker({values}) {
     const randElement = values[randInx]
     return (
         <div>
-            <p>The list of values: {randElement}</p>
+            <p>The list of values: {values}</p>
+            <p>Random element is: {randElement}</p>
         </div>
     )
 }
