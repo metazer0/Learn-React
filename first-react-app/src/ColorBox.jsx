@@ -20,4 +20,3 @@ export default function ColorBox({ colors }) {
   );
 }
 
-Lecture thumbnail
